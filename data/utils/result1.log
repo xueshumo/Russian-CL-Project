@@ -1,0 +1,14 @@
+1.行号18：utils模块：ModuleNotFoundError
+处理：加入import sys
+sys.path.append('E:\\RU_CL\\data')
+
+2.Traceback (most recent call last):
+  File "E:\RU_CL\data\utils\rules.py", line 82, in <module>
+    validate_analysis(nlp)
+  File "E:\RU_CL\data\utils\rules.py", line 78, in validate_analysis
+    assert any(r in results for r in case["expected"]), f"Failed: {case['text']}"
+AssertionError: Failed: Он режет хлеб ножом
+处理：1.在 validate_analysis 函数中添加调试信息，输出每个测试用例的分析结果，以此查看具体的依存关系和形态特征。
+2.确保 token.morph.get("Case") 提取的结果格式与预期一致。有时候，提取的结果可能是一个列表，需要进行适当的处理。
+
+

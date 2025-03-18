@@ -24,7 +24,7 @@ case_counts.columns=['Case','Count']
 
 total=case_counts['Count'].sum()
 case_counts['Percentage']=(case_counts['Count']/total*100).round(2)
-case_counts.to_csv('result/case_distribution.csv',index=False)
+case_counts.to_csv('results/case_distribution.csv',index=False)
 
 print(case_counts)
 
