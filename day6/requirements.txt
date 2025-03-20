@@ -2,8 +2,7 @@
 
 alabaster==0.7.12
 altair==5.5.0
-anaconda-client
-anaconda-project==0.11.1
+anaconda-client==1.13.0
 annotated-types==0.7.0
 anyio==3.6.2
 appdirs==1.4.4
