@@ -19,8 +19,8 @@ Automat
 autopep8
 Babel
 backcall
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+backports.functools-lru-cache
+backports.tempfile
 backports.weakref==1.0.post1
 bcrypt
 beautifulsoup4
@@ -38,7 +38,7 @@ catalogue==2.0.10
 certifi
 cffi
 chardet
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+charset-normalizer
 click
 cloudpathlib==0.21.0
 cloudpickle
@@ -48,11 +48,11 @@ colorcet
 comm
 conda==23.3.1
 conda-build==3.24.0
-conda-content-trust @ file:///C:/Windows/TEMP/abs_4589313d-fc62-4ccc-81c0-b801b4449e833j1ajrwu/croots/recipe/conda-content-trust_1658126379362/work
-conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
-conda-package-handling @ file:///C:/b/abs_fcga8w0uem/croot/conda-package-handling_1672865024290/work
+conda-content-trust
+conda-pack
+conda-package-handling
 conda-repo-cli==1.0.41
-conda-token @ file:///Users/paulyim/miniconda3/envs/c3i/conda-bld/conda-token_1662660369760/work
+conda-token
 conda-verify==3.4.2
 conda_package_streaming
 confection==0.1.5
@@ -72,10 +72,10 @@ DAWG2-Python==0.9.0
 debugpy
 decorator
 defusedxml
-diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
+diff-match-patch
 dill
 distributed
-docstring-to-markdown @ file:///C:/b/abs_cf10j8nr4q/croot/docstring-to-markdown_1673447652942/work
+docstring-to-markdown
 docutils
 entrypoints
 et-xmlfile==1.1.0
@@ -98,15 +98,15 @@ h11==0.14.0
 h5py
 HeapDict
 holoviews
-huggingface-hub @ file:///C:/b/abs_8d8wo2z8c6/croot/huggingface_hub_1667490298905/work
+huggingface-hub
 hvplot
 hyperlink
 idna
 imagecodecs
 imageio
 imagesize
-imbalanced-learn @ file:///C:/b/abs_1911ryuksz/croot/imbalanced-learn_1677191585237/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1648544469310/work
+imbalanced-learn
+importlib-metadata
 incremental
 inflection==0.5.1
 iniconfig
@@ -114,7 +114,7 @@ intake
 intervaltree
 ipykernel
 ipython
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipython-genutils
 ipywidgets
 isort
 itemadapter
@@ -123,7 +123,7 @@ itsdangerous
 jedi
 jellyfish
 Jinja2
-jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
+jinja2-time
 jmespath
 joblib
 json5
@@ -131,20 +131,20 @@ jsonpatch
 jsonpointer==2.1
 jsonschema
 jupyter
-jupyter-console @ file:///C:/b/abs_68ttzd5p9c/croot/jupyter_console_1677674667636/work
-jupyter-server @ file:///C:/b/abs_1cfi3__jl8/croot/jupyter_server_1671707636383/work
+jupyter-console
+jupyter-server
 jupyter_client
 jupyter_core
 jupyterlab
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+jupyterlab-pygments
+jupyterlab-widgets
 jupyterlab_server
 keyring
 kiwisolver
 langcodes==3.5.0
 language_data==1.3.0
-lazy-object-proxy @ file:///C:/ci_310/lazy-object-proxy_1642083437654/work
-libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
+lazy-object-proxy
+libarchive-c
 llvmlite==0.39.1
 locket
 lxml
@@ -154,13 +154,13 @@ Markdown
 markdown-it-py==3.0.0
 MarkupSafe
 matplotlib
-matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934094726/work
+matplotlib-inline
 mccabe
 mdurl==0.1.2
 menuinst
 mistune
 mkl-fft==1.3.1
-mkl-random @ file:///C:/ci_310/mkl_random_1643050563308/work
+mkl-random
 mkl-service==2.4.0
 mock
 mpmath==1.2.1
@@ -175,7 +175,7 @@ nbclassic
 nbclient
 nbconvert
 nbformat
-nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
+nest-asyncio
 networkx
 nltk
 notebook
@@ -210,13 +210,13 @@ ply==3.11
 pooch
 poyo
 preshed==3.0.9
-prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
-prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
+prometheus-client
+prompt-toolkit
 Protego
 protobuf==5.29.4
 psutil
 ptyprocess
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pure-eval
 py
 pyarrow==19.0.1
 pyasn1
@@ -237,7 +237,7 @@ Pygments==2.19.1
 PyHamcrest
 PyJWT
 pylint
-pylint-venv @ file:///C:/b/abs_bf0lepsbij/croot/pylint-venv_1673990138593/work
+pylint-venv
 pyls-spyder==0.4.0
 pymorphy3==2.0.3
 pymorphy3-dicts-ru==2.4.417150.4580142
@@ -246,24 +246,23 @@ pyodbc
 pyOpenSSL
 pyparsing
 PyQt5==5.15.7
-PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
+PyQt5-sip
 PyQtWebEngine==5.15.4
 pyrsistent
 PySocks
 pytest==7.1.2
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil
 python-dotenv==1.0.1
-python-lsp-black @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_dddk9lhpp1/croots/recipe/python-lsp-black_1661852041405/work
+python-lsp-black
 python-lsp-jsonrpc==1.0.0
-python-lsp-server @ file:///C:/b/abs_e44khh1wya/croot/python-lsp-server_1677296772730/work
-python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
-python-snappy @ file:///C:/b/abs_61b1fmzxcn/croot/python-snappy_1670943932513/work
-pytoolconfig
+python-lsp-server
+python-slugify
+python-snappy
 pytz
-pyviz-comms @ file:///tmp/build/80754af9/pyviz_comms_1623747165329/work
+pyviz-comms
 PyWavelets
 pywin32==305.1
-pywin32-ctypes @ file:///C:/ci_310/pywin32-ctypes_1642657835512/work
+pywin32-ctypes
 pywinpty
 PyYAML
 pyzmq
@@ -275,29 +274,29 @@ QtPy
 queuelib==1.5.0
 regex
 requests
-requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
-requests-toolbelt @ file:///Users/ktietz/demo/mc3/conda-bld/requests-toolbelt_1629456163440/work
+requests-file
+requests-toolbelt
 rich==13.9.4
 rope
 Rtree
-ru-core-news-lg @ file:///D:/anaconda/Lib/site-packages/ru_core_news_lg-3.8.0
-ru-core-news-sm @ file:///C:/Users/27360/Downloads/ru_core_news_sm-3.8.0.tar.gz
-ruamel-yaml-conda @ file:///C:/b/abs_6ejaexx82s/croot/ruamel_yaml_1667489767827/work
-ruamel.yaml @ file:///C:/b/abs_30ee5qbthd/croot/ruamel.yaml_1666304562000/work
-ruamel.yaml.clib @ file:///C:/b/abs_aarblxbilo/croot/ruamel.yaml.clib_1666302270884/work
-scikit-image @ file:///C:/b/abs_63r0vmx78u/croot/scikit-image_1669241746873/work
-scikit-learn @ file:///C:/b/abs_7ck_bnw91r/croot/scikit-learn_1676911676133/work
+ru-core-news-lg
+ru-core-news-sm
+ruamel-yaml-conda
+ruamel.yaml
+ruamel.yaml.clib
+scikit-image
+scikit-learn
 scikit-learn-intelex==20230228.214818
 scipy==1.10.0
 Scrapy
 seaborn
 selenium==4.29.0
 Send2Trash
-service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
+service-identity
 shellingham==1.5.4
 sip
 six
-smart-open @ file:///C:/ci/smart_open_1651235038100/work
+smart-open
 smmap==5.0.2
 sniffio==1.3.1
 snowballstemmer
@@ -307,17 +306,17 @@ spacy==3.8.4
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 Sphinx
-sphinxcontrib-applehelp @ file:///home/ktietz/src/ci/sphinxcontrib-applehelp_1611920841464/work
-sphinxcontrib-devhelp @ file:///home/ktietz/src/ci/sphinxcontrib-devhelp_1611920923094/work
-sphinxcontrib-htmlhelp @ file:///tmp/build/80754af9/sphinxcontrib-htmlhelp_1623945626792/work
-sphinxcontrib-jsmath @ file:///home/ktietz/src/ci/sphinxcontrib-jsmath_1611920942228/work
-sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_1611921055322/work
-sphinxcontrib-serializinghtml @ file:///tmp/build/80754af9/sphinxcontrib-serializinghtml_1624451540180/work
+sphinxcontrib-applehelp
+sphinxcontrib-devhelp
+sphinxcontrib-htmlhelp
+sphinxcontrib-jsmath
+sphinxcontrib-qthelp
+sphinxcontrib-serializinghtml
 spyder
-spyder-kernels @ file:///C:/b/abs_feh4xo1mrn/croot/spyder-kernels_1673292245176/work
+spyder-kernels
 SQLAlchemy
 srsly==2.5.1
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+stack-data
 statsmodels
 streamlit==1.43.2
 sympy
@@ -327,11 +326,11 @@ TBB==0.2
 tblib
 tenacity==9.0.0
 terminado
-text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
+text-unidecode
 textdistance
 thinc==8.3.4
 threadpoolctl
-three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
+three-merge
 tifffile
 tinycss2
 tldextract
@@ -348,7 +347,7 @@ transformers
 trio==0.29.0
 trio-websocket==0.12.2
 Twisted
-twisted-iocpsupport @ file:///C:/ci/twisted-iocpsupport_1646817083730/work
+twisted-iocpsupport
 typer==0.15.2
 typing_extensions==4.12.2
 ujson
