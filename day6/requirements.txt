@@ -2,7 +2,7 @@
 
 alabaster==0.7.12
 altair==5.5.0
-anaconda-client==1.2.2
+anaconda-client==1.13.0
 annotated-types==0.7.0
 anyio==3.6.2
 appdirs==1.4.4
@@ -19,7 +19,7 @@ autopep8==2.0.2
 Babel==2.12.1
 backcall==0.2.0
 backports.functools-lru-cache==1.6.4
-backports.tempfile==1.0.1
+backports.tempfile==1.0
 backports.weakref==1.0.post1
 bcrypt==4.0.1
 beautifulsoup4==4.12.2
