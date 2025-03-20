@@ -2,7 +2,7 @@
 
 alabaster==0.7.12
 altair==5.5.0
-anaconda-client==1.2.2
+anaconda-client>=1.2.2
 anaconda-navigator==2.4.0
 anaconda-project==1.2.2
 annotated-types==0.7.0
